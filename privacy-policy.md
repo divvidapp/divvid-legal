@@ -1,62 +1,147 @@
-**Privacy Policy**
+# Divvid Privacy Policy
 
-This privacy policy applies to the Divvid app (hereby referred to as "Application") for mobile devices that was created by Divvid (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+Last updated: April 6, 2026
 
-**Information Collection and Use**
+## Introduction
 
-The Application collects information when you download and use it. This information may include information such as
+This Privacy Policy applies to the Divvid app ("Application") for mobile devices, created by Divvid ("Service Provider"). This document describes how we collect, use, protect, and share your personal information when you use our service.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+If you do not agree with any of the practices described in this Privacy Policy, please do not use our services.
 
-The Application does not gather precise information about the location of your mobile device.
+---
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+## Quick Overview
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+Divvid is a shared budget app designed for couples and partners. You choose who you share your expenses and income with. When you add a transaction, the details are visible to the other members of your group. Divvid is not intended to be used by children under the age of 13.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, UserID, Name. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+---
 
-**Third Party Access**
+## Information We Collect
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+### Information you provide to us
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+**Registration information:** When you create a Divvid account, we collect your name and email address. We use this information to manage your account, authenticate your identity, and allow you to access your data from any device.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+**User-generated content:** When using the service, you may provide information about shared expenses, income, budgets, categories, amounts, descriptions, and dates. This information is shared with the other members of your group. You are solely responsible for what you choose to share and with whom.
 
-**Opt-Out Rights**
+**Group information:** When you create or join a group, we store the group name, member identifiers, and invitation tokens.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+### Information collected automatically
 
-**Data Retention Policy**
+**Device and usage information:** When you download or use Divvid, we may receive information about your device, including your IP address, operating system, and app version. We use this information to provide the service, improve its performance, and ensure account security.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at divvid.app@gmail.com and they will respond in a reasonable time.
+---
 
-**Children**
+## How We Use Your Information
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+We use the information we collect to:
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(divvid.app@gmail.com)</span> so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+- Provide, maintain, and improve the Divvid service
+- Authenticate your identity and manage your account
+- Display shared transactions to your group members
+- Send push notifications about new activity in your group (with your permission)
+- Detect and prevent fraud, errors, or unauthorized access
+- Respond to your support requests
+- Comply with applicable laws and regulations
 
-**Security**
+---
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Shared Information Between Group Members
 
-**Changes**
+Divvid is designed to share financial information between group members. When you add an expense or income entry, the following information becomes visible to all members of your group:
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+- Amount
+- Description and category
+- Date
+- The name of the member who added the transaction
 
-This privacy policy is effective as of 2026-04-06
+Please be mindful of what you add, as your group members will have access to this information.
 
-**Your Consent**
+---
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+## Third-Party Services
 
-**Contact Us**
+### Firebase (Google LLC)
+Divvid uses Firebase, a platform operated by Google LLC, for user authentication and data storage. Your data may be processed on servers located outside your country of residence, including in the United States. Google LLC applies technical and organizational safeguards to protect your data. For more information, please refer to Google's Privacy Policy at https://policies.google.com/privacy.
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at divvid.app@gmail.com.
+### Apple Inc. — Divvid Pro Subscription
+Divvid offers an optional paid subscription called Divvid Pro. All payments are processed exclusively by Apple Inc. through the App Store. Divvid does not have access to your payment card information, billing address, or any other financial information related to your subscription. For more information, please refer to Apple's Privacy Policy at https://www.apple.com/legal/privacy.
+
+### Push Notifications
+With your permission, Divvid may send push notifications to inform you of new transactions or activity in your group. You can disable push notifications at any time in your device settings.
+
+---
+
+## Data Sharing and Disclosure
+
+We do not sell or share your personal information with third parties for marketing purposes.
+
+We may disclose your personal information in the following limited circumstances:
+
+- **Service providers:** We may share your information with trusted third-party providers (such as Firebase/Google) who assist us in operating the service. These providers are contractually obligated to protect your information.
+- **Legal obligations:** We may disclose your information if required by law, court order, or governmental authority.
+- **Safety:** We may disclose information to protect the rights, property, or safety of our users or the public.
+- **Business transfer:** If Divvid or its assets are acquired by another company, your information may be transferred as part of that transaction. The acquiring party will assume the obligations described in this Privacy Policy.
+
+---
+
+## Data Retention
+
+We retain your personal information for as long as your account is active or as needed to provide you with our services. If you delete your account, we will delete your personal information. However, transactions that were shared with other group members may remain visible in their accounts as part of their records.
+
+---
+
+## Account Deletion
+
+You may request the deletion of your account at any time by contacting us at the email address provided below. Upon deletion:
+
+- Your personal information (name, email address) will be permanently removed.
+- Shared transactions involving you may remain visible to other group members, but your personal identifying information will be removed from those records.
+- Deleted data cannot be recovered.
+
+---
+
+## Security
+
+We take the security of your information seriously. We use Firebase's built-in security features, including encrypted data transmission (HTTPS/TLS) and Firestore Security Rules, to protect your data from unauthorized access.
+
+However, no method of transmission over the Internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+---
+
+## Children's Privacy
+
+Divvid is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us immediately at the address below and we will promptly delete that information.
+
+---
+
+## International Data Transfers
+
+Divvid uses Firebase (Google LLC), which may process your data on servers located in the United States or other countries. By using our service, you consent to the transfer and processing of your information in countries outside your country of residence. Regardless of location, we apply appropriate safeguards to protect your personal data.
+
+---
+
+## Your Rights
+
+Depending on your location, you may have the following rights regarding your personal information:
+
+- **Access:** You may request a copy of the personal information we hold about you.
+- **Correction:** You may request that we correct inaccurate or incomplete information.
+- **Deletion:** You may request the deletion of your personal information.
+- **Portability:** You may request a copy of your data in a portable format.
+
+To exercise any of these rights, please contact us at the email address below.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by updating the "Last updated" date at the top of this document. We encourage you to review this Privacy Policy periodically.
+
+---
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us:
+
+**Email:** support@divvid.app
