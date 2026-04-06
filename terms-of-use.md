@@ -204,4 +204,4 @@ agreement between you and Divvid with respect to your use of the service.
 
 If you have any questions about these Terms of Use, please contact us:
 
-**Email:** support@divvid.app
+**Email:** divvid.app@gmail.com
