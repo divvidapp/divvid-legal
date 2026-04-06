@@ -1,41 +1,207 @@
-Terms & Conditions
-These terms and conditions apply to the Divvid app (hereby referred to as "Application") for mobile devices that was created by Divvid (hereby referred to as "Service Provider") as a Freemium service.
+# Divvid Terms of Use
 
+Last updated: April 6, 2026
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
+## Introduction
 
+Welcome to Divvid. By downloading or using the Divvid application ("Application"), 
+you agree to be bound by these Terms of Use. Please read them carefully. 
+If you do not agree with these terms, please do not use our services.
 
-Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+---
 
+## 1. Description of Service
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+Divvid is a shared budget application designed for couples and partners to track 
+shared expenses, income, and budgets. Transactions recorded in Divvid are informal 
+records intended to help you and your partner manage your finances together. They 
+do not constitute legally binding financial contracts.
 
+The service is provided "AS IS" and "AS AVAILABLE." We do our best to maintain a 
+reliable service, but we may modify, suspend, or discontinue features at any time 
+without prior notice.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+---
 
+## 2. Eligibility
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+You may use Divvid only if:
 
+- You agree to these Terms of Use and our Privacy Policy
+- You are at least 13 years of age
+- You are not barred from using the service under the laws of your jurisdiction
+- Your account has not been previously suspended or terminated for violation 
+  of these terms
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+---
 
+## 3. Account Registration
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+To use Divvid, you must create an account using a valid email address and password. 
+You agree to:
 
+- Provide accurate, current, and complete information
+- Keep your login credentials confidential
+- Be responsible for all activity that occurs under your account
+- Notify us immediately if you suspect unauthorized use of your account
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+---
 
+## 4. Shared Information Between Group Members
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+Divvid is designed to share financial information between the members of a group. 
+When you add a transaction (expense or income), it becomes visible to all members 
+of your group. You are solely responsible for the information you choose to add 
+and share. Divvid cannot guarantee the accuracy of information entered by users.
 
+---
 
-Changes to These Terms and Conditions
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+## 5. Acceptable Use
 
+You agree to use Divvid only for its intended purpose and in compliance with all 
+applicable laws. You agree not to:
 
-These terms and conditions are effective as of 2026-04-06
+- Use the service for fraudulent, illegal, or harmful purposes
+- Impersonate another person or misrepresent your identity
+- Attempt to gain unauthorized access to other users' accounts or data
+- Interfere with or disrupt the integrity or performance of the service
+- Use the service to harass, threaten, or harm other users
+- Post or transmit content that is obscene, offensive, or violates the rights 
+  of others
 
+Divvid reserves the right to suspend or terminate your access to the service at 
+any time, for any reason, at its sole discretion, including for violation of 
+these Terms of Use.
 
-Contact Us
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at divvid.app@gmail.com.
+---
 
+## 6. User-Generated Content
+
+You are solely responsible for all content you add to Divvid, including 
+transaction descriptions, amounts, categories, and group names. By submitting 
+content, you represent that you have the right to do so and that such content 
+does not violate any applicable law or the rights of any third party.
+
+Divvid reserves the right to remove any content that violates these Terms of Use 
+or that we deem inappropriate, at our sole discretion.
+
+---
+
+## 7. Divvid Pro Subscription
+
+Divvid offers an optional paid subscription called Divvid Pro, which unlocks 
+additional features including unlimited transactions, full transaction history, 
+and personal statistics.
+
+- Subscriptions are managed and billed by Apple Inc. through the App Store
+- Divvid Pro includes a free trial period, after which your subscription will 
+  automatically renew unless canceled at least 24 hours before the end of the 
+  current billing period
+- You may manage or cancel your subscription at any time through your 
+  Apple ID account settings
+- Prices may vary by country and are subject to change
+- Divvid does not process payments directly and does not have access to your 
+  payment information
+- Refund requests are subject to Apple's refund policies
+
+---
+
+## 8. No Warranty
+
+THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. DIVVID DOES NOT WARRANT 
+THAT THE SERVICE WILL BE ERROR-FREE, UNINTERRUPTED, OR COMPLETELY SECURE. 
+YOU USE THE SERVICE AT YOUR OWN RISK.
+
+---
+
+## 9. Limitation of Liability
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, DIVVID SHALL NOT BE LIABLE 
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES 
+ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SERVICE, INCLUDING BUT NOT 
+LIMITED TO LOSS OF DATA, LOSS OF REVENUE, OR FINANCIAL DECISIONS MADE BASED ON 
+INFORMATION RECORDED IN THE APPLICATION, EVEN IF DIVVID HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.
+
+---
+
+## 10. Indemnification
+
+You agree to indemnify and hold harmless Divvid, its developers, agents, and 
+representatives from any claim, liability, damage, or expense (including legal 
+fees) arising from your use of the service, your violation of these Terms of Use, 
+or your violation of any rights of another person or entity.
+
+---
+
+## 11. Privacy
+
+Your use of Divvid is also governed by our Privacy Policy, available at:
+https://divvidapp.github.io/divvid-legal/privacy-policy
+
+By using Divvid, you consent to the collection and use of your information as 
+described in our Privacy Policy.
+
+---
+
+## 12. Third-Party Services
+
+Divvid uses third-party services to operate, including Firebase (Google LLC) for 
+authentication and data storage, and Apple Inc. for in-app purchases. Your use of 
+these third-party services is subject to their respective terms and privacy policies. 
+Divvid is not responsible for the practices of these third parties.
+
+---
+
+## 13. Account Termination
+
+You may delete your account at any time by contacting us at the email address 
+below. Upon deletion of your account, your personal information will be removed. 
+However, transactions previously shared with other group members may remain 
+visible in their accounts as part of their records, without your personal 
+identifying information.
+
+Divvid reserves the right to terminate or suspend your account at any time, 
+without notice, for conduct that we believe violates these Terms of Use or is 
+harmful to other users, third parties, or the service.
+
+---
+
+## 14. Modifications to the Terms
+
+We may update these Terms of Use from time to time. We will notify you of 
+significant changes by updating the "Last updated" date at the top of this 
+document. Your continued use of the service after any changes constitutes 
+your acceptance of the new terms.
+
+---
+
+## 15. Governing Law
+
+These Terms of Use shall be governed by and interpreted in accordance with 
+the laws of the Province of Quebec, Canada, without regard to conflict of 
+law principles.
+
+---
+
+## 16. Severability
+
+If any provision of these Terms of Use is found to be invalid or unenforceable, 
+the remaining provisions will continue in full force and effect.
+
+---
+
+## 17. Entire Agreement
+
+These Terms of Use, together with our Privacy Policy, constitute the entire 
+agreement between you and Divvid with respect to your use of the service.
+
+---
+
+## Contact Us
+
+If you have any questions about these Terms of Use, please contact us:
+
+**Email:** support@divvid.app
